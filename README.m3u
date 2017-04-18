@@ -2,6 +2,7 @@
 
 #EXTM3U
 
+
 #EXTINF:1,HIJACKED ~ Ελληνικοί Υπότιτλοι
 plugin://plugin.video.youtube/?action=play_video&videoid=SIwKROkCgPE
 
@@ -62,7 +63,7 @@ plugin://plugin.video.youtube/?action=play_video&videoid=Fj59YulJzI4
 #EXTINF:1,EYES OF AN ANGEL ~ Ελληνικοί Υπότιτλοι
 plugin://plugin.video.youtube/?action=play_video&videoid=0gZEW3uo_kw
 
-#EXTINF:1,The Frankenstein Syndrome ~ Ελληνικοί Υπότιτλοι
+#EXTINF:1,The FRANKENSTEIN SYNDROME ~ Ελληνικοί Υπότιτλοι
 plugin://plugin.video.youtube/?action=play_video&videoid=4IZBM97vcDU
 
 #EXTINF:1,ΓΡΑΜΜΑΤΑ ΣΤΟ ΘΕΟ ~ Ελληνικοί Υπότιτλοι
