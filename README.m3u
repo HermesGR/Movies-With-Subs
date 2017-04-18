@@ -42,7 +42,7 @@ plugin://plugin.video.youtube/?action=play_video&videoid=CBGKmJ0LuJA
 plugin://plugin.video.youtube/?action=play_video&videoid=xjJzE6iShOc
 
 #EXTINF:1,Η ΟΜΙΧΛΗ ~ Ελληνικοί Υπότιτλοι
-plugin://plugin.video.youtube/?action=play_video&videoid=ZtKZ2naginI
+plugin://plugin.video.youtube/?action=play_video&videoid=6OPu_wg2Hwk
 
 #EXTINF:1,THE FRONT LINE ~ Ελληνικοί Υπότιτλοι
 plugin://plugin.video.youtube/?action=play_video&videoid=j66iwIpu_Rg
@@ -61,6 +61,9 @@ plugin://plugin.video.youtube/?action=play_video&videoid=Fj59YulJzI4
 
 #EXTINF:1,EYES OF AN ANGEL ~ Ελληνικοί Υπότιτλοι
 plugin://plugin.video.youtube/?action=play_video&videoid=0gZEW3uo_kw
+
+#EXTINF:1,The Frankenstein Syndrome ~ Ελληνικοί Υπότιτλοι
+plugin://plugin.video.youtube/?action=play_video&videoid=4IZBM97vcDU
 
 #EXTINF:1,ΓΡΑΜΜΑΤΑ ΣΤΟ ΘΕΟ ~ Ελληνικοί Υπότιτλοι
 plugin://plugin.video.youtube/?action=play_video&videoid=3FbqLzE97qY
