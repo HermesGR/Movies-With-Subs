@@ -45,6 +45,9 @@ plugin://plugin.video.youtube/?action=play_video&videoid=xjJzE6iShOc
 #EXTINF:1,Η ΟΜΙΧΛΗ ~ Ελληνικοί Υπότιτλοι
 plugin://plugin.video.youtube/?action=play_video&videoid=6OPu_wg2Hwk
 
+#EXTINF:1,HACHIKO A DOG'S STORY ~ Ελληνικοί Υπότιτλοι
+plugin://plugin.video.youtube/?action=play_video&videoid=mgFOyWLgyMQ
+
 #EXTINF:1,THE FRONT LINE ~ Ελληνικοί Υπότιτλοι
 plugin://plugin.video.youtube/?action=play_video&videoid=j66iwIpu_Rg
 
