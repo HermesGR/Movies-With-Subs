@@ -2,11 +2,17 @@
 
 #EXTM3U
 
-#EXTINF:1,HIGH SCHOOL ~ Ελληνικοί Υπότιτλοι
-plugin://plugin.video.youtube/?action=play_video&videoid=aOB34_P7KFI
+#EXTINF:1,Η ΠΟΛΙΟΡΚΙΑ 3 ~ Ελληνικοί Υπότιτλοι
+plugin://plugin.video.youtube/?action=play_video&videoid=zA-ZzU-hVFA
 
 #EXTINF:1,THE JERK THEORY ~ Ελληνικοί Υπότιτλοι
 plugin://plugin.video.youtube/?action=play_video&videoid=BxoyntnJr-Q
+
+#EXTINF:1,THE RECRUIT ~ Ελληνικοί Υπότιτλοι
+plugin://plugin.video.youtube/?action=play_video&videoid=-ULQ-oCwzgs
+
+#EXTINF:1,HIGH SCHOOL ~ Ελληνικοί Υπότιτλοι
+plugin://plugin.video.youtube/?action=play_video&videoid=aOB34_P7KFI
 
 #EXTINF:1,GOOD DAY FOR IT ~ Ελληνικοί Υπότιτλοι
 plugin://plugin.video.youtube/?action=play_video&videoid=KkNGQ_hFD2g
